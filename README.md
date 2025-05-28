@@ -9,7 +9,7 @@ Basic HTTP C2 server for remote command execution. Install this agent on your Co
 - Console interface
 
 ## Usage
-1. Build and run: `dotnet run`
+1. Download the Release and Run it as Admin!
 2. Connect agents to `http://your-ip:8080`
 3. Use console commands: `cmd <agent> <command>`
 
